@@ -1,4 +1,4 @@
-                                                                                                           Guvi Zen Library Management System
+                      Guvi Zen Library Management System
 
 This project involves the design and implementation of a database model for managing users, students, mentors, topics, tasks, and attendance within the Guvi Zen platform. The database is designed using MySQL, with tables representing various entities and their relationships.
 
